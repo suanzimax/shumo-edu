@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/7c92e96509cd355e.js"],""]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"scWqWOmbPuZICslyl_iIf","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-slate-50","children":[["$","header",null,{"className":"bg-white shadow-sm","children":["$","div",null,{"className":"max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4","children":["$","div",null,{"className":"flex items-center justify-between","children":[["$","div",null,{"className":"flex items-center gap-4","children":[["$","$L2",null,{"href":"/","className":"text-slate-600 hover:text-slate-800","children":"← 返回"}],["$","h1",null,{"className":"text-2xl font-bold text-slate-800","children":"💬 社区讨论"}]]}],["$","$L2",null,{"href":"/community/new","className":"bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700","children":"发布帖子"}]]}]}]}],["$","main",null,{"className":"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8","children":["$","div",null,{"className":"space-y-4","children":[]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/7c92e96509cd355e.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
